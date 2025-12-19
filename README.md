@@ -1,4 +1,4 @@
-#Pratice to Become an Dev
+# Pratice to Become an Dev
 
 ## Starting Day 1
 - Day 1 begins on: 20/12/2025
